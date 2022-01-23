@@ -5,6 +5,7 @@ export const GlobalStyle = createGlobalStyle`
         // variaveis de cor usadas em todo react app
         --background: #F0F2F5;
         --red: #E52E4D;
+        --green: #33cc95;
         --blue: #5429CC;
 
         --blue-light: #6933ff;
